@@ -8,16 +8,16 @@ export default function Profile() {
                 <div className='profile-details'>
                     <div className='colz'>
                         <div className="colz-icon">
-                            <a href='#'>
+                            <a href='src/PortfolioContainer/Home/Profile/Profile#'>
                                 <i className="fa fa-facebook-square"></i>
                             </a>
-                            <a href='#'>
+                            <a href='src/PortfolioContainer/Home/Profile/Profile#'>
                                 <i className="fa fa-google-plus-square"></i>
                             </a>
-                            <a href='#'>
+                            <a href='src/PortfolioContainer/Home/Profile/Profile#'>
                                 <i className="fa fa-instagram"></i>
                             </a>
-                            <a href='#'>
+                            <a href='src/PortfolioContainer/Home/Profile/Profile#'>
                                 <i className="fa fa-youtube-square"></i>
                             </a>
                         </div>
@@ -48,7 +48,7 @@ export default function Profile() {
                         </a>
                     </div>
                 </div>
-                <div className="prfile-picture">
+                <div className="profile-picture">
                     <div className="profile-picture-background">
 
                     </div>
